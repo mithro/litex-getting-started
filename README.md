@@ -1,6 +1,6 @@
 # Welcome to the LiteX Ecosystem!
 
-![LiteX Ecosystem Diagram](https://docs.google.com/drawings/d/e/2PACX-1vTBLRTHW08kZJ87Nm_y8IDuxZR4HsUBOnfgdy-dab_3jHS_gZWhlRJEip97BqlDZKKJ9Ij4F1_MJnaW/pub)
+![LiteX Ecosystem Diagram](https://docs.google.com/drawings/d/e/2PACX-1vTBLRTHW08kZJ87Nm_y8IDuxZR4HsUBOnfgdy-dab_3jHS_gZWhlRJEip97BqlDZKKJ9Ij4F1_MJnaW/pub?w=1960&amp;h=1341)
 
 ## Getting Started
 
